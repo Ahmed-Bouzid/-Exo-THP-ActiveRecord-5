@@ -1,3 +1,5 @@
+#avec la gem faker et une boucle, sert a creer des valeur aleatoires
+
 require 'faker'
 
 3.times do |y| # création de 3 cours
